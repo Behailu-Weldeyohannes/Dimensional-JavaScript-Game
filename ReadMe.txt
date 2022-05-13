@@ -1,0 +1,17 @@
+Dimensional JavaScript Game
+Game where you control a paddle with the arrow keys to bounce a ball up to break bricks. This app uses the HTML5 canvas element and API
+
+Project Specifications
+Draw elements on canvas
+Use canvas paths to draw shapes
+Add animation with requestAnimationFrame(cb)
+Move paddle on arrow key press
+Add collision detection
+Keep score
+Add rules button with slider
+
+Credit:
+Brad Traversy
+https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
+
+
